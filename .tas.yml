@@ -9,4 +9,4 @@ preRun:
 postMerge:
   pattern:
     - "**/test/**/unit/**/*spec.ts"
-version: 1.0
+version: 1.0.1
